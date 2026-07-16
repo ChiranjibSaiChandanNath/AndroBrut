@@ -186,18 +186,6 @@ Select **Run Frida Server** to start it in the background on the emulator. Requi
 
 ---
 
-## 🔐 Full Walkthrough
-
-AndroBrut automates the tedious setup of a rooted Android emulator with Burp Suite integration — bypass SSL pinning, defeat root detection, and inject custom Frida scripts without the manual grind.
-
-<p align="center">
-<a href="https://youtu.be/bDxgilaYcE8">
-<img src="https://img.youtube.com/vi/bDxgilaYcE8/maxresdefault.jpg" width="600" alt="Watch the demo"/>
-</a>
-</p>
-
----
-
 ## 🛡️ Troubleshooting
 
 <details>
