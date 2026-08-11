@@ -174,16 +174,25 @@ Select **Run Frida Server** to start it in the background on the emulator. Requi
 ---
 
 ## 📸 Screenshots
-
 <p align="center">
   <img src="Screenshots/1.png" alt="AndroBrut Screenshot" width="600"/>
   <br><sub><em>Main Menu — vibrant UI, clear menu options</em></sub>
 </p>
+
 <p align="center">
   <img src="Screenshots/2.png" alt="AndroBrut Screenshot" width="600"/>
-  <br><sub><em>Frida Tools — menu with custom script support</em></sub>
+  <br><sub><em>Frida Tools — Install tools</em></sub>
 </p>
 
+<p align="center">
+  <img src="Screenshots/3.png" alt="AndroBrut Screenshot" width="600"/>
+  <br><sub><em>Configure Emulator — Frida Server</em></sub>
+</p>
+
+<p align="center">
+  <img src="Screenshots/4.png" alt="AndroBrut Screenshot" width="600"/>
+  <br><sub><em>Frida Tools — Frida tools</em></sub>
+</p>
 ---
 
 ## 🛡️ Troubleshooting
